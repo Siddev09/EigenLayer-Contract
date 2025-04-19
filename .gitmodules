@@ -1,6 +1,0 @@
-[submodule "Desktop/cyfrin-foundary/lib/forge-std"]
-	path = Desktop/cyfrin-foundary/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "Desktop/New folder/lib/forge-std"]
-	path = Desktop/New folder/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
