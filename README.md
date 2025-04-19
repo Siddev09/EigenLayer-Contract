@@ -12,9 +12,7 @@ The main contract that handles all restaking operations. It interacts with sever
 - **DelegationManager**: Handles operator delegation
 - **RewardsCoordinator**: Manages reward distribution and claims
 
-
-
-### 3. Testing Framework
+### 2. Testing Framework
 
 The project includes comprehensive tests in `test/EigenLayer.t.sol` that verify:
 
@@ -24,7 +22,7 @@ The project includes comprehensive tests in `test/EigenLayer.t.sol` that verify:
 - Reward claiming
 - Authorization checks
 
-### 4. Helper Contracts
+### 3. Helper Contracts
 
 #### RewardsHelper
 A utility contract that assists with:
